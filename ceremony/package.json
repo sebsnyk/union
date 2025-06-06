@@ -29,7 +29,7 @@
     "@axiomhq/js": "^1.2.0",
     "@scure/base": "^1.1.8",
     "@splinetool/runtime": "^1.9.23",
-    "@supabase/supabase-js": "^2.45.3",
+    "@supabase/supabase-js": "^2.50.0",
     "@tanstack/svelte-query": "^5.54.1",
     "neverthrow": "^7.1.0",
     "runed": "^0.15.2",
