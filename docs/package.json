@@ -39,7 +39,7 @@
     "astro": "^4.16.14",
     "astro-live-code": "^0.0.4",
     "expressive-code-twoslash": "^0.2.4",
-    "graphiql": "^3.7.2",
+    "graphiql": "^5.0.0",
     "graphql": "^16.9.0",
     "mermaid": "^11.4.1",
     "monaco-editor": "^0.52.0",
