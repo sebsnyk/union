@@ -41,7 +41,7 @@
     "expressive-code-twoslash": "^0.2.4",
     "graphiql": "^3.7.2",
     "graphql": "^16.9.0",
-    "mermaid": "^11.4.1",
+    "mermaid": "^11.12.1",
     "monaco-editor": "^0.52.0",
     "monaco-editor-auto-typings": "^0.4.5",
     "react": "^18.3.1",
