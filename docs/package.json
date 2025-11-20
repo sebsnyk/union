@@ -36,7 +36,7 @@
     "@xterm/addon-web-links": "^0.11.0",
     "@xterm/addon-webgl": "^0.18.0",
     "@xterm/xterm": "^5.5.0",
-    "astro": "^4.16.14",
+    "astro": "^5.15.8",
     "astro-live-code": "^0.0.4",
     "expressive-code-twoslash": "^0.2.4",
     "graphiql": "^3.7.2",
