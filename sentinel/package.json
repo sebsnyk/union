@@ -11,7 +11,7 @@
     "graphql-request": "^7.1.2",
     "neverthrow": "^8.1.1",
     "node-fetch": "3.3.2",
-    "viem": "^2.22.11",
+    "viem": "^2.54.2",
     "yargs": "^17.7.2"
   },
   "devDependencies": {
