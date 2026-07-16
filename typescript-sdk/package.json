@@ -34,7 +34,7 @@
   "dependencies": {
     "@aptos-labs/ts-sdk": "1.35.0",
     "@cosmjs/amino": "^0.33.0",
-    "@cosmjs/cosmwasm-stargate": "0.33.0",
+    "@cosmjs/cosmwasm-stargate": "0.38.1",
     "@cosmjs/proto-signing": "^0.33.0",
     "@cosmjs/stargate": "0.33.0",
     "@cosmjs/tendermint-rpc": "^0.33.0",
