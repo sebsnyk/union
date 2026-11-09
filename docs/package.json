@@ -23,7 +23,7 @@
     "@expressive-code/plugin-collapsible-sections": "^0.38.3",
     "@expressive-code/plugin-line-numbers": "^0.38.3",
     "@graphiql/plugin-explorer": "^3.2.3",
-    "@lorenzo_lewis/starlight-utils": "^0.2.0",
+    "@lorenzo_lewis/starlight-utils": "^0.3.2",
     "@monaco-editor/react": "^4.6.0",
     "@rehype-pretty/transformers": "npm:@jsr/rehype-pretty__transformers@^0.13.4",
     "@unionlabs/client": "^0.0.39",
